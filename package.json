@@ -1,0 +1,24 @@
+{
+  "name": "electron-runtastic",
+  "version": "1.0.0",
+  "description": "A minimal Electron application to manage Runtastic data",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maikpaulus/electron-runtastic.git"
+  },
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial"
+  ],
+  "author": "Maik Paulus <mail@maikpaulus.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "electron-prebuilt": "^1.0.1"
+  }
+}
